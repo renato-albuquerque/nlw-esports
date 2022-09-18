@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat, 11 à 18/Set/22.
 
-[Clique aqui para acessar](https://renato-albuquerque.github.io/nlw-esports-explorer/)
+🔗 [Clique aqui para acessar](https://renato-albuquerque.github.io/nlw-esports-explorer/)
 
 ## Tecnologias
 
@@ -16,7 +16,7 @@ Projeto construído no evento Next Level Week da Rocketseat, 11 à 18/Set/22.
 
 ## Contato
 
-[Linkedin](https://www.linkedin.com/in/renato-malbuquerque/)
+🔗 [Linkedin](https://www.linkedin.com/in/renato-malbuquerque/)
 
 
 
