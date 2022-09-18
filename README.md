@@ -2,9 +2,9 @@
 
 ![preview](./.github/preview.png)
 
->Trilha Explorer
+## Trilha Explorer
 
-Projeto construído no evento Next Level Week da Rocketseat, 11 à 18/Set/22.
+Projeto construído no evento "Next Level Week" da Rocketseat, de 11 à 18/Set/22.
 
 🔗 [Clique aqui para acessar](https://renato-albuquerque.github.io/nlw-esports-explorer/)
 
