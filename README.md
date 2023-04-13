@@ -2,19 +2,19 @@
 
 ![preview](./.github/preview.png)
 
-## Trilha Explorer
+## Explorer Trail
 
-Projeto construído no evento "Next Level Week" da Rocketseat, de 11 à 18/Set/22.
+Project developed at Rocketseat's "Next Level Week" event, from 11 to 18/Sep/22.
 
-🔗 [Clique aqui para acessar](https://renato-albuquerque.github.io/nlw-esports-explorer/)
+🔗 [Click here to access](https://renato-albuquerque.github.io/nlw-esports-explorer/)
 
-## Tecnologias
+## Technologies
 
 - HTML
 - CSS
-- Git e Github
+- Git and Github
 
-## Contato
+## Contact
 
 🔗 [Linkedin](https://www.linkedin.com/in/renato-malbuquerque/)
 
